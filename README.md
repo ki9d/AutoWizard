@@ -1,63 +1,30 @@
-・────── AutoWizard ┋ discord.gg/AutoWizard ──────・
-======================================================================
+🔄 AutoWizard Update v1.2.0
+📅 Release Date: September 2024
+🆕 NEW FEATURES & IMPROVEMENTS
+✨ Clicks Per Second (CPS) Limiter(more fps)
 
-Please read this before downloading!
+Range: 1 CPS to 1,000 CPS
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Step 1: Download and Install Python
-Go to the Python Official Website:
+A new adjustable limit has been introduced to fine-tune your CPS between 1 and 1,000 clicks per second. Enjoy more control over your click speeds to suit your strategy and gameplay!
 
-Visit python.org/downloads.
-Download the Latest Version:
+🚀 New SuperClicker Mode
 
-Click on the latest Python version available for your operating system (Windows, macOS, or Linux).
-Download the Python installer for your OS.
+CPS: 20,000 CPS
 
-Run the Installer:
+Take your clicking to the next level with SuperClicker Mode, which allows you to reach a mind-blowing 20,000 CPS. Warning: Use this feature wisely to avoid overwhelming your system!
 
-Open the installer.
+⚙️ Customize CPS Input
 
-Check the box that says "Add Python to PATH" (this is important!).
+Biggest Update:
 
-Choose the option "Install Now".
+You can now manually adjust and input your desired clicks per second! No more fixed limits—set your own CPS and experiment with different rates for the perfect gameplay balance.
 
-Verify Python Installation:
+🛠️ Minor Fixes & Changes
 
-Open Command Prompt (CMD) or Terminal.
-Type python --version and press Enter. If installed correctly, it will show the installed Python version.
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Step 2: Install pip via Command Prompt (CMD)
-Open Command Prompt:
+Improved Performance: Reduced lag during rapid clicks.
+UI Overhaul: Click speed adjustment sliders are now smoother and more responsive.
+Bug Fixes: Addressed rare issue where CPS would randomly reset during gameplay.
 
-Press Windows Key + R, type cmd, and press Enter.
-Install pip:
-
-Type the following command and press Enter:
-
-css
-
-python -m ensurepip --upgrade
-
-Verify pip Installation:
-
-In the Command Prompt, type:
-css
-
-pip --version
-
-This should display the version of pip that was installed.
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-If you're having any issues with the download please feel free to make a ticket in our
-#support section of our discord and our team will guide you to success.
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-At the moment our config is very basic and only focuses on our performance with the stable
-input of cps (clicks per second) which is around 1.3k-2.3k depending on your pc and your frame limit will not drop as much as other macros 
-meaning this is great for low performance pc's but if you do have a high performance pc 
-the macro will be UNBEATABLE! Auto Wizard is a toggle based macro meaning when the keybind "1" is pressed
-the macro with execute and when let go it will be turned off until toggled again.
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+📢 Enjoy the New Features!
+Be sure to check out the newly added SuperClicker Mode and experiment with custom CPS input for a fully personalized experience.
+![image](https://github.com/user-attachments/assets/320070e0-70d3-422c-b468-e15fa9611ddc)
