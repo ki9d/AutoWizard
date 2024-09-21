@@ -27,4 +27,9 @@ Bug Fixes: Addressed rare issue where CPS would randomly reset during gameplay.
 
 📢 Enjoy the New Features!
 Be sure to check out the newly added SuperClicker Mode and experiment with custom CPS input for a fully personalized experience.
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/320070e0-70d3-422c-b468-e15fa9611ddc)
